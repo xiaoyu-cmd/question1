@@ -1,4 +1,3 @@
-问题1
 bool wordBreak(string s, vector<string>& wordSet)
 {
 	if (s.empty())
